@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/sort_by_name"
+            android:title="Sort by name" />
+
+    <item
+            android:id="@+id/sort_by_state"
+            android:title="Sort by state" />
+
+    <item
+            android:id="@+id/sort_by_id"
+            android:title="Sort by id" />
+</menu>
